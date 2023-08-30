@@ -3,18 +3,9 @@
 This service provides ICMP ping metrics for Prometheus. Using this [ping](https://github.com/cerebnismus/ping) repository.
 
 
-## Usage
-
-```python
-$ python3 ping-exporter.py --help
-usage: ping-exporter.py [-h] [--port PORT] [--interval INTERVAL]
-                        [--timeout TIMEOUT] [--count COUNT] [--debug]
-```
-
 ## Grafana Dashboard
 
-Use the following dashboard to visualize the ping metrics:
-
+Use the [dashboard](https://github.com/cerebnismus/ping-exporter/blob/main/Ping-Exporter-Dashboard.json) to visualize the ping metrics.
 
 
 ## Prometheus Configuration
