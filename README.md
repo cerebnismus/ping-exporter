@@ -1,4 +1,7 @@
 ## ping-exporter
 
 This service provides ICMP ping metrics for Prometheus. Using this [ping](https://github.com/cerebnismus/ping) repository.
-![image](https://github.com/cerebnismus/ping-exporter/assets/11842029/6dc07f84-08f4-46a3-b6f6-1ab37968330e)
+
+![image](https://github.com/cerebnismus/ping-exporter/assets/11842029/c831f190-2334-4296-b034-6e148e87d56d)
+
+![image](https://github.com/cerebnismus/ping-exporter/assets/11842029/67715707-d95e-4c48-b4be-a52330fbb0f5)
